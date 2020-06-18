@@ -1,7 +1,6 @@
 # pythoncorona
-atttention coronanis still programmmed
 attention coronavirus still programmmed
-ve careful
+#be careful
 #stayathome
 #weramask
 #becareful
